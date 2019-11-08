@@ -1,0 +1,7 @@
+title: r-f-d.github.io
+description:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://r-f-d.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: jekyll-theme-midnight
