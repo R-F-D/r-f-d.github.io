@@ -5,8 +5,8 @@ layout: default
 
 |<!---->|<!---->|
 |--|--|
-|Naeme|R.F.D./温泉ねずみ|
-|Organization|[ODプロジェクト](odproject.net)
+|Name|R.F.D./温泉ねずみ|
+|Organization|[ODプロジェクト](http://odproject.net)
 |SNS|[Twitter](https://twitter.com/R_F_D)<br>[GitHub](https://github.com/R-F-D)|
 
 
